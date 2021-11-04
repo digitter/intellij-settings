@@ -1,0 +1,14 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="EditorBackSpace">
+    <keyboard-shortcut first-keystroke="back_space" />
+    <keyboard-shortcut first-keystroke="shift back_space" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="TypeHierarchy">
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
+  </action>
+</keymap>
