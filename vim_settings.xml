@@ -50,7 +50,7 @@
   <component name="VimSettings">
     <state version="7" enabled="true" />
     <notifications>
-      <idea-join enabled="true" />
+      <idea-join enabled="false" />
       <idea-put enabled="false" />
     </notifications>
   </component>
